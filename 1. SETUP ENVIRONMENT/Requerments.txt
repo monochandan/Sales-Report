@@ -1,0 +1,4 @@
+POWER BI
+SQL
+SQL Server Management Studio
+DAX
