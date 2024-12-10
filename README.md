@@ -1,6 +1,6 @@
 2019 - 2021
 
-## Sales report from 
+## Sales report 
 
 ![image](https://github.com/user-attachments/assets/10ebab10-a1fa-46a6-b566-931aece5822b)
 
